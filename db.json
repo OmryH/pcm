@@ -1,0 +1,75 @@
+{
+  "bar": [
+    {
+      "id": 1,
+      "barType": "sideMenu",
+      "link": "#",
+      "img": "demo/demo_img/bar/setting_icon@2x.png"
+    },
+    {
+      "id": 2,
+      "barType": "spin",
+      "link": "https://dev4d.paymaxs.com/nyl/SOD/SOD-0/",
+      "img": "demo/demo_img/bar/free_spin@2x.png"
+    },
+    {
+      "id": 3,
+      "barType": "link",
+      "link": "https://dev4d.paymaxs.com/nyl/WhackABingo/WhackABingo-0/",
+      "img": "demo/demo_img/bar/white_present_topbar.png"
+    },
+    {
+      "id": 4,
+      "barType": "link",
+      "link": "#",
+      "img": "demo/demo_img/bar/trophy2.png"
+    }
+  ],
+  "draws": [
+    {
+      "id": 1,
+      "title": "MYSTERY",
+      "DrawType": 5,
+      "subTitle": "DRAWING",
+      "text": "",
+      "buttonText": "ENTER DRAWING",
+      "style": {
+        "backgroundColor": "#000942",
+        "backgroundImg": "demo/demo_img/draws/generic_banner_BG.jpg",
+        "img": "demo/demo_img/draws/mystery_drawing_gifts.png"
+      },
+      "comingSoon": true,
+      "minLevel": 15
+    },
+    {
+      "id": 2,
+      "DrawType": 2,
+      "title": "MONTHLY",
+      "subTitle": "DRAWING",
+      "text": "",
+      "buttonText": "ENTER DRAWING",
+      "style": {
+        "backgroundColor": "#ccc",
+        "backgroundImg": "demo/demo_img/draws/10k_menu_bg.jpg",
+        "img": "demo/demo_img/draws/10k.png"
+      },
+      "comingSoon": false,
+      "minLevel": 10
+    },
+    {
+      "id": 3,
+      "DrawType": 1,
+      "title": "DAILY",
+      "subTitle": "DRAWING",
+      "text": "",
+      "buttonText": "ENTER DRAWING",
+      "style": {
+        "backgroundColor": "#333",
+        "backgroundImg": "demo/demo_img/draws/Daily_menu_banner_bg.jpg",
+        "img": "demo/demo_img/draws/card.png"
+      },
+      "comingSoon": false,
+      "minLevel": 15
+    }
+  ]
+}
