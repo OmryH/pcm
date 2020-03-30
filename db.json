@@ -2,8 +2,8 @@
   "draws": [
     {
       "id": 1,
-      "title": "MYSTERY",
       "DrawType": 5,
+      "title": "MYSTERY",
       "subTitle": "DRAWING",
       "text": "",
       "buttonText": "ENTER DRAWING",
