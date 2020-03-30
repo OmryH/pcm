@@ -1,30 +1,4 @@
 {
-  "bar": [
-    {
-      "id": 1,
-      "barType": "sideMenu",
-      "link": "#",
-      "img": "demo/demo_img/bar/setting_icon@2x.png"
-    },
-    {
-      "id": 2,
-      "barType": "spin",
-      "link": "https://dev4d.paymaxs.com/nyl/SOD/SOD-0/",
-      "img": "demo/demo_img/bar/free_spin@2x.png"
-    },
-    {
-      "id": 3,
-      "barType": "link",
-      "link": "https://dev4d.paymaxs.com/nyl/WhackABingo/WhackABingo-0/",
-      "img": "demo/demo_img/bar/white_present_topbar.png"
-    },
-    {
-      "id": 4,
-      "barType": "link",
-      "link": "#",
-      "img": "demo/demo_img/bar/trophy2.png"
-    }
-  ],
   "draws": [
     {
       "id": 1,
